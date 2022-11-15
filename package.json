@@ -1,0 +1,20 @@
+{
+  "name": "todo-list-pern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhagerty/todo-list-pern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhagerty/todo-list-pern/issues"
+  },
+  "homepage": "https://github.com/rhagerty/todo-list-pern#readme"
+}
